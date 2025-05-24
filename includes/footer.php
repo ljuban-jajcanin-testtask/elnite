@@ -30,20 +30,16 @@
                             data-wow-duration="1500ms" data-wow-delay="800ms">
                             <div class="footer-widget-title">
                                 <span class="icon-icon"></span>
-                                <h4>About Elton</h4>
+                                <h4>O nama</h4>
                             </div>
-                            <p class="footer-widget-text">
-                                The first true generator on the Internet. It uses a dictionary of over 200
-                                Latin
-                                words, combined with of model sentence structures to generate.
-                            </p>
+                            <p class="footer-widget-text"><strong>ElNite</strong> je kompanija osnovana 2024. godine s jasnim ciljem – pružanje visokokvalitetnih rješenja u oblasti električnih instalacija, industrijske i kućne automatizacije, kao i sistema neprekidnog napajanja.</p>
                             <div class="footer-widget-call">
                                 <div class="call-icon-box">
                                     <i class="icon-phone"></i>
                                 </div>
                                 <div class="call-detail">
-                                    <p>Call us Anytime :</p>
-                                    <a href="tel:1-800-1234-900">1-800-1234-900</a>
+                                    <p>Pozovite nas:</p>
+                                    <a href="tel:+387 65 241 339">+387 65 241 339</a>
                                 </div>
                             </div>
                         </div>
@@ -54,14 +50,14 @@
                             data-wow-delay="600ms">
                             <div class="footer-widget-title">
                                 <span class="icon-icon"></span>
-                                <h4>Explore</h4>
+                                <h4>Istražite</h4>
                             </div>
                             <ul class="footer-widget-link-details">
-                                <li><a href="index-2.html">Home</a></li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="index.php">Početna</a></li>
+                                <li><a href="onama.php">O nama</a></li>
+                                <li><a href="usluge.php">Usluge</a></li>
+                                <li><a href="karijera.php">Karijera</a></li>
+                                <li><a href="kontakt.php">Kontakt</a></li>
                             </ul>
                         </div>
                     </div>
@@ -71,12 +67,12 @@
                             data-wow-duration="1500ms" data-wow-delay="400ms">
                             <div class="footer-widget-title">
                                 <span class="icon-icon"></span>
-                                <h4>Working Hours</h4>
+                                <h4>Radno vrijeme</h4>
                             </div>
                             <ul class="footer-widget-working-hours-details">
-                                <li>Mon to Fri: 7am - 6pm</li>
-                                <li>Sat: 9am - 7pm</li>
-                                <li>Sun: CLOSED</li>
+                                <li>Pon - Pet: 8:00 - 16:00</li>
+                                <li>Sub: ZATVORENO</li>
+                                <li>Sun: ZATVORENO</li>
                             </ul>
                         </div>
                     </div>
@@ -86,20 +82,20 @@
                             data-wow-duration="1500ms" data-wow-delay="200ms">
                             <div class="footer-widget-title">
                                 <span class="icon-icon"></span>
-                                <h4>Keep in Touch</h4>
+                                <h4>Kontaktirajte nas</h4>
                             </div>
                             <ul class="footer-widget-contact-details">
                                 <li>
-                                    <span>A :</span>
-                                    <p> 24A, Kingston Sts, Los Santos NC 2820, USA.</p>
+                                    <span>A:</span>
+                                    <p> Ulica dr Živka Nježića broj 74, 78000 Banja Luka.</p>
                                 </li>
                                 <li>
-                                    <span>M :</span>
-                                    <a href="mailto:support@elton.com">support@elton.com</a>
+                                    <span>M:</span>
+                                    <a href="mailto:info@elnite.com">info@elnite.com</a>
                                 </li>
                                 <li>
-                                    <span>P :</span>
-                                    <a href="tel+387 65 000 000">+387 65 000 000</a>
+                                    <span>T:</span>
+                                    <a href="tel+387 65 000 000">+387 65 241 339</a>
                                 </li>
                             </ul>
                         </div>
@@ -115,12 +111,12 @@
                     <!-- footer-bottom-copyright -->
                     <div class="footer-bottom-copyright">
                         <p><span class="icon-copyright"></span> Copyright <?php echo date("Y") ?> <a href="index.php">Elnite</a>.
-                            All Rights Reserved</p>
+                            Sva prava zadržana.</p>
                     </div>
                     <!-- footer-bottom-link -->
-                    <div class="footer-bottom-link">
+                    <!--<div class="footer-bottom-link">
                         <a href="contact.html">Privacy Policy - Terms & Conditions</a>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
@@ -136,47 +132,18 @@
             <span></span>
         </a>
         <div class="logo-box">
-            <a href="index-2.html"><img src="images/resources/logo.png" alt="logo"></a>
+            <a href="index-2.html"><img src="images/elnite-logo.png" alt="logo"></a>
         </div>
         <!-- /.logo-box -->
         <div class="mobile-nav-container">
             <ul class="mobile-menu-list">
-                <li class="menu-item-has-children dropdown">
-                    <a href="#">Home</a>
-                    <ul>
-                        <li><a href="index-2.html">Home One</a></li>
-                        <li><a href="index2.html">Home Two</a></li>
-                        <li><a href="index3.html">Home Three</a></li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children dropdown">
-                    <a href="#">Page</a>
-                    <ul>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="calculator.html">Estimation Calculator</a></li>
-                        <li><a href="pricing.html">Pricings</a></li>
-                        <li class="menu-item-has-children dropdown"><a href="#">Team</a>
-                            <ul class="sub-menu-inner">
-                                <li><a href="team.html">Team Member</a></li>
-                                <li><a href="team-details.html">Team Details</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children dropdown"><a href="#">Services</a>
-                    <ul>
-                        <li><a href="services.html">Services List</a></li>
-                        <li><a href="services-details.html">Services Details</a></li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children dropdown"><a href="#">Blog</a>
-                    <ul>
-                        <li><a href="blog.html">Blog List</a></li>
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
-                    </ul>
-                </li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="index.php">Početna</a></li>
+                <li><a href="onama.php">O nama</a></li>
+                <li><a href="usluge.php">Usluge</a></li>
+                <li><a href="proizvodnja.php">Proizvodnja</a></li>
+                <li><a href="galerija.php">Galerija</a></li>
+                <li><a href="karijera.php">Karijera</a></li>
+                <li><a href="kontakt.php">Kontakt</a></li>
             </ul>
         </div>
         <!-- /.mobile-nav-container -->
@@ -185,7 +152,7 @@
                 <div class="mobile-nav-contact-icon">
                     <i class="fa fa-phone"></i>
                 </div>
-                <a href="tel:+387 65 000 000">+387 65 000 000</a>
+                <a href="tel:+387 65 241 339">+387 65 241 339</a>
             </li>
             <li>
                 <div class="mobile-nav-contact-icon">
