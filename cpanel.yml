@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/elnite/public_html/
-    - /bin/cp * $DEPLOYPATH
+    - export DEPLOYPATH=/home/elnite/public_html
+    - /bin/cp -r . $DEPLOYPATH
