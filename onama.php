@@ -20,13 +20,13 @@ include_once ('includes/header.php');
     include_once ('includes/sections/onama/klijenti.php');
 
     //HEADER
-    include_once ('includes/sections/onama/tim.php');
+    //include_once ('includes/sections/onama/tim.php');
 
     //HEADER
-    include_once ('includes/sections/onama/svjedocanstva.php');
+    //include_once ('includes/sections/onama/svjedocanstva.php');
 
     //HEADER
-    include_once ('includes/sections/onama/nagrade.php');
+    //include_once ('includes/sections/onama/nagrade.php');
 
 
     ?>

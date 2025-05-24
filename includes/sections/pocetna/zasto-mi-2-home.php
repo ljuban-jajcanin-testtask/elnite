@@ -28,10 +28,10 @@
                                 </p>
                             </div>
                             <div class="why-choose-two-btn-box align-items-center d-flex">
-                                <a href="pricing.html" class="thm-btn main-btn">Free Estimate<i
+                                <a href="kontakt.php" class="thm-btn main-btn">Kontakt<i
                                         class="icon-arrow-right-up"></i></a>
-                                <a href="https://www.youtube.com/watch?v=rzfmZC3kg3M" class="video-popup video-btn"><i
-                                        class="icon-promo"></i></a>
+                                <!--<a href="https://www.youtube.com/watch?v=rzfmZC3kg3M" class="video-popup video-btn"><i
+                                        class="icon-promo"></i></a>-->
                             </div>
                         </div>
                     </div>
@@ -44,17 +44,17 @@
             <!-- why-choose-two-bottom-content -->
             <div class="why-choose-two-bottom-content">
                 <span class="icon-choose3"></span>
-                <h5>24/7 Availability</h5>
+                <h5>Kvalitet</h5>
             </div>
             <!-- why-choose-two-bottom-content -->
             <div class="why-choose-two-bottom-content">
                 <span class="icon-choose4"></span>
-                <h5>Affordable Price</h5>
+                <h5>Inovativnost</h5>
             </div>
             <!-- why-choose-two-bottom-content -->
             <div class="why-choose-two-bottom-content">
                 <span class="icon-choose5"></span>
-                <h5>Free Estimation</h5>
+                <h5>Partnerstvo</h5>
             </div>
         </div>
     </div>

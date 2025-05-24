@@ -12,7 +12,7 @@
                     <span class="icon-icon"></span>
                 </div>
                 <div class="section-title-title">
-                    <h2>What people says</h2>
+                    <h2>Reference</h2>
                 </div>
             </div>
         </div>

@@ -99,7 +99,7 @@
                                 </li>
                                 <li>
                                     <span>P :</span>
-                                    <a href="tel:+1800-456-900-20">1800-456-900-20</a>
+                                    <a href="tel+387 65 000 000">+387 65 000 000</a>
                                 </li>
                             </ul>
                         </div>
@@ -114,7 +114,7 @@
                 <div class="footer-bottom-inner">
                     <!-- footer-bottom-copyright -->
                     <div class="footer-bottom-copyright">
-                        <p><span class="icon-copyright"></span> Copyright 2024 <a href="index-2.html">Elton</a>.
+                        <p><span class="icon-copyright"></span> Copyright <?php echo date("Y") ?> <a href="index.php">Elnite</a>.
                             All Rights Reserved</p>
                     </div>
                     <!-- footer-bottom-link -->
@@ -185,13 +185,13 @@
                 <div class="mobile-nav-contact-icon">
                     <i class="fa fa-phone"></i>
                 </div>
-                <a href="tel:+8898006802">+91 6353967672</a>
+                <a href="tel:+387 65 000 000">+387 65 000 000</a>
             </li>
             <li>
                 <div class="mobile-nav-contact-icon">
                     <i class="fa fa-envelope"></i>
                 </div>
-                <a href="mailto:info@zoso.com">info@zoso.com</a>
+                <a href="mailto:info@elnite.com">info@elnite.com</a>
             </li>
         </ul><!-- /.mobile-nav-contact -->
         <ul class="mobile-nav-social">

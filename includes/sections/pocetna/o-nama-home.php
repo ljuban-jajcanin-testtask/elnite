@@ -11,8 +11,8 @@
                         <img src="images/about/about-Icon.png" alt="">
                     </div>
                     <div class="about-one-top-title">
-                        <h3>We work for you since 1985</h3>
-                        <a href="about.html" class="read-more-btn">Read more<i class="icon-arrow-right-up"></i></a>
+                        <h3>Tri glavne karakteristike kompanije ElNite: </h3>
+                        <!-- <a href="about.html" class="read-more-btn">Read more<i class="icon-arrow-right-up"></i></a> -->
                     </div>
                 </div>
             </div>
@@ -41,8 +41,8 @@
                             <span class="icon-services01"></span>
                         </div>
                         <div class="about-one-single-title">
-                            <h5>50% off for 5 Services</h5>
-                            <p>The majority have suffered in injected humour.</p>
+                            <h5>1. Kvalitet</h5>
+                            <p>Fokus na visokokvalitetnim rješenjima koja garantuju sigurnost, dugoročnu pouzdanost i energetsku efikasnost.</p>
                         </div>
                     </div>
                 </div>
@@ -56,8 +56,8 @@
                             <span class="icon-free-cost"></span>
                         </div>
                         <div class="about-one-single-title">
-                            <h5>Free Cost Estimation</h5>
-                            <p>The majority have suffered in injected humour.</p>
+                            <h5>2. Inovativnost</h5>
+                            <p>Korištenje savremenih tehnologija i stručnog znanja za projektovanje i implementaciju naprednih sistema.</p>
                         </div>
                     </div>
                 </div>
@@ -71,8 +71,8 @@
                             <span class="icon-warranty"></span>
                         </div>
                         <div class="about-one-single-title">
-                            <h5>5 Years Warranty</h5>
-                            <p>The majority have suffered in injected humour.</p>
+                            <h5>3. Partnerstvo </h5>
+                            <p>Izgradnja dugoročnih odnosa s klijentima kroz transparentnost, prilagođena rješenja i profesionalnu podršku.</p>
                         </div>
                     </div>
                 </div>

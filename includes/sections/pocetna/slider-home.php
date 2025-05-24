@@ -30,7 +30,7 @@
             </div>
             <!-- banner-one-btn -->
             <div class="banner-one-btn wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="700ms">
-                <a href="calculator.html" class="thm-btn main-btn">Get Started<i class="icon-arrow-right-up"></i></a>
+                <a href="usluge.php" class="thm-btn main-btn">Usluge<i class="icon-arrow-right-up"></i></a>
             </div>
         </div>
     </div>

@@ -45,7 +45,7 @@
                 <ul class="main-menu-list">
                     <li><a href="index.php">Početna</a></li>
                     <li><a href="onama.php">O nama</a></li>
-                    <li><a href="projekti.php">Projekti</a></li>
+                    <li><a href="usluge.php">Usluge</a></li>
                     <li><a href="proizvodnja.php">Proizvodnja</a></li>
                     <li><a href="galerija.php">Galerija</a></li>
                     <li><a href="karijera.php">Karijera</a></li>

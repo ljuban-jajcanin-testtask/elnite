@@ -6795,9 +6795,9 @@ body.locked {
 
 .about-four-bottom-inner .about-four-bottom-inner-text {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
     margin-bottom: 0;
+    flex-direction: column;
 }
 
 .about-four-bottom-inner .about-four-bottom-inner-text p {
@@ -6808,6 +6808,8 @@ body.locked {
     line-height: 32px;
     padding-left: 15px;
     padding-right: 23px;
+    text-align: left;
+    margin: 10px 0;
 }
 
 .about-four-bottom-inner .about-four-bottom-inner-text p span {

@@ -22,7 +22,7 @@
                         </div>
                         <div class="footer-two-top-contact-number">
                             <p>Call us any time:</p>
-                            <h5>1-800-500-7600</h5>
+                            <h5>+387 65 000 000</h5>
                         </div>
                     </div>
                     <div class="footer-two-top-btn">
@@ -45,7 +45,7 @@
                                     </a>
                                 </div>
                                 <p class="footer-widget-copyright">
-                                    <span class="icon-copyright"></span> 2024 <a href="index-2.html">Elton</a>. All
+                                    <span class="icon-copyright"></span> <?php echo date("Y") ?> <a href="index-2.html">Elnite</a>. All
                                     Rights Reserved
                                 </p>
                             </div>
@@ -172,13 +172,13 @@
                 <div class="mobile-nav-contact-icon">
                     <i class="icon-phone"></i>
                 </div>
-                <a href="tel:1-800-1234-900">1-800-1234-900</a>
+                <a href="tel:+387 65 000 000">+387 65 000 000</a>
             </li>
             <li>
                 <div class="mobile-nav-contact-icon">
                     <i class="icon-sms"></i>
                 </div>
-                <a href="mailto:elton@support.com">elton@support.com</a>
+                <a href="mailto:info@elnite.com">info@elnite.com</a>
             </li>
         </ul><!-- /.mobile-nav-contact -->
         <ul class="mobile-nav-social">

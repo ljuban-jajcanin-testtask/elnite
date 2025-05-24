@@ -11,9 +11,9 @@
                             <div class="section-title-icon">
                                 <span class="icon-icon"></span>
                             </div>
-                            <div class="section-title-title">
+                            <!--<div class="section-title-title">
                                 <h2>We are the best electrical service since 1985</h2>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <!-- about-four-points-box -->
@@ -24,8 +24,8 @@
                                 <span class="icon-mission"></span>
                             </div>
                             <div class="about-four-points-details">
-                                <a href="#">Our Mission</a>
-                                <p>The variations of but don't look even available slight many desktop.</p>
+                                <a href="#">Misija</a>
+                                <p>Naša misija je pružiti visokokvalitetna i pouzdana rješenja u oblasti električnih instalacija, industrijske i kućne automatizacije te sistema neprekidnog napajanja, prilagođena specifičnim potrebama naših klijenata.</p>
                             </div>
                         </li>
                         <li>
@@ -34,8 +34,8 @@
                                 <span class="icon-vision"></span>
                             </div>
                             <div class="about-four-points-details">
-                                <a href="#">Our Vision</a>
-                                <p>The variations of but don't look even available slight many desktop.</p>
+                                <a href="#">Vizija</a>
+                                <p>Težimo da postanemo lider u inovativnim i energetski efikasnim sistemima, postavljajući standarde u kvalitetu, sigurnosti i dugoročnim partnerskim odnosima.</p>
                             </div>
                         </li>
                         <li>
@@ -44,8 +44,8 @@
                                 <span class="icon-methodology"></span>
                             </div>
                             <div class="about-four-points-details">
-                                <a href="#">Our Methodology</a>
-                                <p>The variations of but don't look even available slight many desktop.</p>
+                                <a href="#">Metodologija rada</a>
+                                <p>Kombinujemo stručno znanje, moderne tehnologije i pažljivo planiranje kako bismo isporučili efikasna rješenja. Kroz transparentnu komunikaciju i posvećenost detaljima, osiguravamo sigurnost, uštedu energije i dugoročnu pouzdanost sistema.</p>
                             </div>
                         </li>
                     </ul>
@@ -89,9 +89,10 @@
             <!-- about-four-bottom-inner -->
             <div class="about-four-bottom-inner text-center">
                 <div class="about-four-bottom-inner-text">
-                    <img src="images/about/about-four-bottom-inner-icon.png" alt="">
-                    <p>Call us today at <span>1-800-500-7600</span> we are ready to help 24/7 support.</p>
-                    <a href="contact.html" class="thm-btn main-btn">Contact us<i class="icon-arrow-right-up"></i></a>
+                    <p><strong>ElNite</strong> je kompanija osnovana 2024. godine s jasnim ciljem – pružanje visokokvalitetnih rješenja u oblasti električnih instalacija, industrijske i kućne automatizacije, kao i sistema neprekidnog napajanja. Naša misija je stvaranje pouzdanih i efikasnih sistema prilagođenih potrebama klijenata, bilo da je riječ o stambenim, poslovnim ili industrijskim objektima.</p>
+                    <p>Kombinujemo stručno znanje, savremene tehnologije i posvećenost kvalitetu kako bismo isporučili rješenja koja garantuju sigurnost, uštedu energije i dugoročnu pouzdanost. Kroz partnerski odnos sa klijentima, gradimo povjerenje i uspješno realizujemo projekte svih veličina.</p>
+                    <p>Vođeni našim sloganom, fokus nam je na kvalitetu i dugoročnim partnerskim odnosima. Svakom projektu pristupamo sa maksimalnom pažnjom, osiguravajući da naši klijenti dobiju najbolje moguće rješenje prilagođeno njihovim potrebama.</p>
+                    <p><strong>ElNite – Above all, quality and partnership.</strong></p>
                 </div>
             </div>
         </div>

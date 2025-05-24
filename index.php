@@ -17,13 +17,13 @@ include_once ('includes/header.php');
     include_once ('includes/sections/pocetna/o-nama-home.php');
 
     //ZAŠTO IZABRATI NAS
-    include_once ('includes/sections/pocetna/zasto-mi-home.php');
+    //include_once ('includes/sections/pocetna/zasto-mi-home.php');
 
     //USLUGE
     include_once ('includes/sections/pocetna/usluge-home.php');
 
     //PROMO
-    include_once ('includes/sections/pocetna/promo-home.php');
+    //include_once ('includes/sections/pocetna/promo-home.php');
 
     //ZAŠTO IZABRATI NAS 2
     include_once ('includes/sections/pocetna/zasto-mi-2-home.php');
@@ -33,6 +33,9 @@ include_once ('includes/header.php');
 
     //TESTIMONIALI
     include_once ('includes/sections/pocetna/svjedocanstva-home.php');
+
+    //O NAMA - KLIJENTI
+    include_once ('includes/sections/onama/klijenti.php');
 
     //BLOG
     include_once ('includes/sections/pocetna/blog-home.php');
@@ -46,7 +49,3 @@ include_once ('includes/header.php');
 include_once ('includes/footer.php');
 
 ?>
-
-<script>
-    alert("TEST");
-</script>

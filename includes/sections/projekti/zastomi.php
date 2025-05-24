@@ -50,8 +50,8 @@
                                 <span class="icon-choose3"></span>
                             </div>
                             <div class="why-choose-three-points-details">
-                                <a href="about.html">24/7 Availability</a>
-                                <p>The variations of but don't look even available slight many desktop.</p>
+                                <a href="about.html">Kvalitet</a>
+                                <p>Fokus na visokokvalitetnim rješenjima koja garantuju sigurnost, dugoročnu pouzdanost i energetsku efikasnost.</p>
                             </div>
                         </li>
                         <li>
@@ -60,8 +60,8 @@
                                 <span class="icon-choose4"></span>
                             </div>
                             <div class="why-choose-three-points-details">
-                                <a href="about.html">Affordable Price</a>
-                                <p>The variations of but don't look even available slight many desktop.</p>
+                                <a href="about.html">Inovativnost</a>
+                                <p>Korištenje savremenih tehnologija i stručnog znanja za projektovanje i implementaciju naprednih sistema.</p>
                             </div>
                         </li>
                         <li>
@@ -70,8 +70,8 @@
                                 <span class="icon-choose5"></span>
                             </div>
                             <div class="why-choose-three-points-details">
-                                <a href="about.html">Free Estimation</a>
-                                <p>The variations of but don't look even available slight many desktop.</p>
+                                <a href="about.html">Partnerstvo</a>
+                                <p>Izgradnja dugoročnih odnosa s klijentima kroz transparentnost, prilagođena rješenja i profesionalnu podršku.</p>
                             </div>
                         </li>
                     </ul>

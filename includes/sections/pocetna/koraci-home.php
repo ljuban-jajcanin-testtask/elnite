@@ -13,12 +13,11 @@
                     </div>
                     <div class="section-title-title wow fadeInUp animated" data-wow-duration="1500ms"
                         data-wow-delay="200ms">
-                        <h2>Providing wide area of specialty services works</h2>
+                        <h2>Realizovani projekti</h2>
                     </div>
                     <div class="section-title-text wow fadeInUp animated" data-wow-duration="1500ms"
                         data-wow-delay="300ms">
-                        <p>The distracted by the readable content of a page when looking at its layout
-                        </p>
+                        <p>Naši realizovani projekti najbolje svjedoče o stručnosti, posvećenosti i profesionalizmu koji ulažemo u svaki posao. Bilo da se radi o kompleksnim industrijskim sistemima, automatizaciji pametnih domova ili implementaciji naprednih energetskih rješenja, svaki projekat je izveden u skladu sa najvišim standardima kvaliteta i bezbijednosti. Nastavljamo da širimo naš portfolio uspješnih projekata, dok naši zadovoljni klijenti potvrđuju vrijednost našeg rada.</p>
                     </div>
                 </div>
             </div>
