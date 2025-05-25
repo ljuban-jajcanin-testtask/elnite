@@ -11,7 +11,7 @@
                     data-wow-delay="400ms">
                     <!-- footer-widget-logo -->
                     <div class="footer-widget-logo">
-                        <a href="index-2.html">
+                        <a href="index.php">
                             <img src="images/elnite-logo.png" alt="">
                         </a>
                     </div>
@@ -87,7 +87,7 @@
                             <ul class="footer-widget-contact-details">
                                 <li>
                                     <span>A:</span>
-                                    <p> Ulica dr Živka Nježića broj 74, 78000 Banja Luka.</p>
+                                    <p>Ulica dr Živka Nježića broj 74, 78000 Banja Luka.</p>
                                 </li>
                                 <li>
                                     <span>M:</span>
@@ -132,7 +132,7 @@
             <span></span>
         </a>
         <div class="logo-box">
-            <a href="index-2.html"><img src="images/elnite-logo.png" alt="logo"></a>
+            <a href="index.php"><img src="images/elnite-logo.png" alt="logo"></a>
         </div>
         <!-- /.logo-box -->
         <div class="mobile-nav-container">
