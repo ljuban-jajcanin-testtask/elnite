@@ -8,7 +8,7 @@
                 </div>
                 <div class="section-title-title wow fadeInUp animated" data-wow-duration="1500ms"
                     data-wow-delay="200ms">
-                    <h2>Spremin smo da odgovrimo na sva Vaša pitanja</h2>
+                    <h2>Spremni smo da odgovrimo na sva Vaša pitanja</h2>
                 </div>
                 <div class="section-title-text wow fadeInUp animated" data-wow-duration="1500ms" data-wow-delay="300ms">
                     <p>Molimo popunite kontakt formu</p>
